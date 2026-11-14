@@ -1511,6 +1511,7 @@ You're never really done.
         - [Design a picture sharing system](https://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
         - [Design a recommendation system](https://ijcai13.org/files/tutorial_slides/td3.pdf)
         - [Design a URL-shortener system: copied from above](https://www.hiredintech.com/system-design/the-system-design-process/)
+        - [System Designer](https://systemdesigner.io/) - Free browser game for practising system design against a simulated traffic day. Lessons and problem briefs are public. Hosted play requires Google or GitHub sign-in.
         - [Design a cache system](https://web.archive.org/web/20220217064329/https://adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
 **[⬆ back to top](#table-of-contents)**
